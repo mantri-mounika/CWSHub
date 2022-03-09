@@ -1,0 +1,3 @@
+[submodule "CWSHub"]
+	path = CWSHub
+	url = https://github.com/mantri-mounika/CWSHub.git
